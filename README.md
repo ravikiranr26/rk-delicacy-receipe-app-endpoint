@@ -61,6 +61,7 @@ Some of the architectural, design consideration considered and furture considera
 To be in future:
 
 * Spring Cloud (As with more microservices, dev and monitoring would be feasible )
+* Redis ( For cache managment as instead of api call would serve the request from cache which improves performance)
 * Docker (For containerisation and quick deploy with minimal infra)
 * Continous Intergration and Deployment using Jenkins and Nexus etc 
 * AWS for scaling the infra and prod deployment etc

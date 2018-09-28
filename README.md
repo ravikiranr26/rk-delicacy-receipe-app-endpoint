@@ -16,7 +16,7 @@ There are several ways to run a Spring Boot application on your local machine. O
 cd rk-delicacy-receipe-app-endpoint
 ./gradlew bootRun
 ```
-# Access
+## Access
 
 ```
 http://localhost:8080/api/recipes/all

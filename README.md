@@ -48,6 +48,11 @@ http://localhost:8080/api/recipes/Netherlands
 ```json
 You would get only one respective to the param passed
 ```
+Swagger
+
+```json
+http://localhost:8080/swagger-ui.html#/
+```
 
 Some of the architectural, design consideration considered and furture consideration are as follows,
 
